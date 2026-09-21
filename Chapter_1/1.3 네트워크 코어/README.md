@@ -483,6 +483,18 @@ TDM 회선 교환을 예시로, 한 프레임은 10개 슬롯으로 구성되고
 
 ### 접속 ISP
 
+- 하나의 global ISP는 비현실적. 여러 공급자 ISP들이 존재
+- 여러 공급자 ISP들 간에 상호 연결 필요
+- 콘텐츠 공급자 네트워크 (구글, MS 등): 기존 ISP를 사용하지 않고 자신만의 네트워크를 운영하여 하위 ISP 연결을 통해 사용자들에게 접근 가능
+- Tier 1 ISP: 국가 간 연결
+- Content provider network(ex.구글): 사설 네트워크의 데이터 센터를 지역 ISP들과 연결 
+
+<br/><br/>
+
+<img width="2754" height="1319" alt="KakaoTalk_20260921_130318670" src="https://github.com/user-attachments/assets/7d7eda68-02b0-4ec4-934e-afb51ef024e8" />
+
+<br/>
+
 - `ISP(Internet Service Provider)` : 패킷 스위치와 통신 링크로 이루어진 네트워크
     1. 종단 시스템에게 다양한 네트워크 접속을 제공한다. (e.g., 가정용 초고속 접속, 고속 LAN 접속, 이동 무선 접속 등)
     2. CP(content provider)에게 인터넷 접속을 제공 → 웹 사이트나 비디오 서버를 인터넷에 직접 연결할 수 있게 된다.
