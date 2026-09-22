@@ -51,6 +51,10 @@
 
 <br/>
 
+❇️캡슐화
+<img width="1500" height="2000" alt="KakaoTalk_20260922_175101050" src="https://github.com/user-attachments/assets/82f91235-8548-494b-9ab2-a0cb20e0aef8" />
+
+<br/><br/>
 
 시스템이 계층구조를 가질 때, 그 계층이 제공하는 서비스의 구현을 변경하는 것도 매우 쉽다.
 
