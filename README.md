@@ -1,8 +1,8 @@
 # Computer-Networking_A-Top-Down-Approach
 
-[컴퓨터 네트워킹: 하향식 접근 (제8판)](http://www.yes24.com/Product/Goods/112228953)을 읽고, 그 내용과 개념을 정리한 레포지토리입니다.
-
-잘못된 내용은 이슈와 PR로 알려주세요 🥰
+##시험 범위 
+- 1장: 1.1~1.6
+- 3장
 
 <br/>
 
