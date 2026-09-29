@@ -87,6 +87,26 @@ e.g., 인터넷 : TDP, UDP라는 두 가지 프로토콜을 가지고 있다.
 
 ## TCP & UDP
 
+❇️TCP: Transmission Control Protocol
+- 신뢰성 있고, 순서대로 전달
+- 혼잡 제어
+- 흐름 제어
+- 연결 설정
+
+<br/>
+
+❇️UDP: User Datagram Protocol
+- 비신뢰적이고, 비순서적 전달
+- 최선을 다하는 방식
+
+<br/>
+
+❇️제공되지 않는 서비스
+- 지연 보장
+- 대역폭 보장
+
+<br/><br/>
+
 ### Transmission Control Protocol, TCP
 
 - **신뢰적**이고 **연결지향형** 서비스를 제공한다. (reliable data transfer)
